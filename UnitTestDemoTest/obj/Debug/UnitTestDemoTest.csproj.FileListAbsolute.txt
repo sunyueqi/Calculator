@@ -1,0 +1,17 @@
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\UnitTestDemoTest.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\UnitTestDemoTest.pdb
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\obj\Debug\UnitTestDemoTest.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\obj\Debug\UnitTestDemoTest.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\obj\Debug\UnitTestDemoTest.csproj.CopyComplete
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\obj\Debug\UnitTestDemoTest.dll
+C:\Users\dell\Desktop\WindowsFormsApplication1\UnitTestDemoTest\obj\Debug\UnitTestDemoTest.pdb
